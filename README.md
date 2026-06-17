@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
-<h3 align="center">🚀 App Developer | React Native | Full-Stack Builder</h3>
+<h3 align="center">🚀 Web Developer | React Native | Full-Stack Builder</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 🚀 I’m currently working on  
-Building scalable mobile apps like **GoZap & Zeochat** with real-time features and clean UI/UX  
+Building scalable websites like **GoZap & Zeochat** with real-time features and clean UI/UX  
 
 🤝 I’m looking to collaborate on  
 React Native / Full-stack projects involving real-world problem solving and product development  
