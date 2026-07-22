@@ -21,7 +21,7 @@ Optimizing performance, advanced system design, and scalable backend architectur
 Advanced React Native, system design, and production-level app architecture  
 
 💬 Ask me about  
-App development, UI/UX improvements, React Native, Node.js, MongoDB  
+Web development, UI/UX improvements, React Native, Node.js
 
 ⚡ Fun fact  
 I focus more on building real-world apps than just theory 🚀  
