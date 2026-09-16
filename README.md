@@ -12,16 +12,16 @@
 Building scalable websites like **GoZap & Zeochat** with real-time features and clean UI/UX  
 
 🤝 I’m looking to collaborate on  
-React Native / Full-stack projects involving real-world problem solving and product development  
+React.js / Full-stack projects involving real-world problem solving and product development  
 
 🛠️ I’m looking for help with  
 Optimizing performance, advanced system design, and scalable backend architecture  
 
 🌱 I’m currently learning  
-Advanced React Native, system design, and production-level app architecture  
+Advanced React.js, system design, and production-level app architecture  
 
 💬 Ask me about  
-Web development, UI/UX improvements, React Native, Node.js
+Web development, UI/UX improvements, React.js, Node.js
 
 ⚡ Fun fact  
 I focus more on building real-world apps than just theory 🚀  
@@ -63,5 +63,5 @@ I focus more on building real-world apps than just theory 🚀
 ---
 
 <p align="center">
-✨ Building real-world apps | Learning every day | Growing step by step ✨
+✨ Building real-world websites | Learning every day | Growing step by step ✨
 </p>
