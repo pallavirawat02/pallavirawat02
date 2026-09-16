@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
-<h3 align="center">🚀 Web Developer | React Native | Full-Stack Builder</h3>
+<h3 align="center">🚀 Web Developer | React.js | Full-Stack Builder</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
